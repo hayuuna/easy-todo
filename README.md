@@ -7,11 +7,6 @@
 
 <br />
 
-**⭐️서비스**
-https://chrome-app-x6ig.vercel.app/
-
-<br />
-
 **메인화면**
 <br />
   <img width="395" alt="스크린샷 2024-03-05 오후 9 17 11" src="https://github.com/hayuuna/Chrome-app/assets/144312023/26d3dc20-4f10-49c3-8ba6-07a0dcb042ac">
